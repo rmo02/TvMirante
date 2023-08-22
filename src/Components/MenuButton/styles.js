@@ -4,7 +4,7 @@ export const Container = styled.View`
 width: 50px;
 height: 50px;
 border-radius: 50px;
-background-color: ${({ theme }) => theme.COLORS.BLUE_700};;
+background-color: ${({ theme }) => theme.COLORS.BLUE_700};
 align-items: center;
 justify-content: center;
 z-index: 2;
