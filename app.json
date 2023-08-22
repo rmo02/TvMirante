@@ -3,7 +3,7 @@
     "name": "TvMirante",
     "slug": "TvMirante",
     "version": "1.0.0",
-    "orientation": "portatil",
+    "orientation": "landscape",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
